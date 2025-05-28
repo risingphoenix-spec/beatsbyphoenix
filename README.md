@@ -14,7 +14,7 @@ Built for performance and elegance. Runs offline. Streams music online. No ads, 
 - 📜 **Lyrics Support** — Optional lyrics fetching and display
 - 📁 **Local + Online Library** — Combine offline songs with online streaming
 - 🎙️ **Multi-Artist Support** — View singer details easily
--  go and check it out im sure ull love  it :)
+-  go and check it out im sure ull love  it :)  link = beatsbyphoenix.netlify.app
 
 ## 🔧 Setup Instructions
 
